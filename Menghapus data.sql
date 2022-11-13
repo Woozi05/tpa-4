@@ -1,0 +1,1 @@
+delete from pembeli where nama_pembeli = "Linda";
